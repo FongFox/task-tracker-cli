@@ -18,9 +18,9 @@ Build a CLI app to track your tasks and manage your to-do list.
 
 - [x] Add Project into Solution
 
-- [ ] Next todo ?
+- [ ] Define Task Data Model (Record/Class and TaskStatus Enum)
 
----
+- [ ] Implement CLI Argument Parsing (Handle positional commands)
 
 Program Structure (Tree):
 
