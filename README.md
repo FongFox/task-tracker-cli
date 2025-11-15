@@ -14,9 +14,11 @@ Build a CLI app to track your tasks and manage your to-do list.
 
 - [x] Create new C# (.Net) solution project
 
-- [ ] Create Project Console
+- [x] Create Project Console
 
-- [ ] Add Project into Solution
+- [x] Add Project into Solution
+
+- [ ] Next todo ?
 
 ---
 
@@ -24,8 +26,12 @@ Program Structure (Tree):
 
 ```bash
 task-tracker-cli
+├─ CLIApp
+│  ├─ CLIApp.csproj
+│  ├─ obj
+│  └─ Program.cs
 ├─ README.md
-└─ TaskTrackerCLIApp.sln
+└─ task-tracker-app.sln
 ```
 
 ---
