@@ -14,7 +14,9 @@ Build a CLI app to track your tasks and manage your to-do list.
 
 - [x] Create new C# (.Net) solution project
 
-- [ ] 
+- [ ] Create Project Console
+
+- [ ] Add Project into Solution
 
 ---
 
