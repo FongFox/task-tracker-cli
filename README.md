@@ -30,6 +30,7 @@ task-tracker-cli
 │  ├─ CLIApp.csproj
 │  ├─ obj
 │  └─ Program.cs
+├─ .gitignore
 ├─ README.md
 └─ task-tracker-app.sln
 ```
