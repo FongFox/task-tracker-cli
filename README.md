@@ -12,7 +12,19 @@ Build a CLI app to track your tasks and manage your to-do list.
 
 - [x] First push new source into Github
 
-- [ ] Create new C# (.Net) terminal project
+- [x] Create new C# (.Net) solution project
+
+- [ ] 
+
+---
+
+Program Structure (Tree):
+
+```bash
+task-tracker-cli
+├─ README.md
+└─ TaskTrackerCLIApp.sln
+```
 
 ---
 
@@ -143,5 +155,3 @@ Here are a few steps to help you get started with the Task Tracker CLI project:
 By the end of this project, you will have developed a practical tool that can help you or others manage tasks efficiently. This project lays a solid foundation for more advanced programming projects and real-world applications.
 
 Happy coding!
-
-
