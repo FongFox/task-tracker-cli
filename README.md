@@ -6,11 +6,11 @@ Build a CLI app to track your tasks and manage your to-do list.
 
 ## Todo list:
 
-- [ ] Init Git
+- [x] Init Git
 
-- [ ] Create new repository in github
+- [x] Create new repository in github
 
-- [ ] First push new source into Github
+- [x] First push new source into Github
 
 - [ ] Create new C# (.Net) terminal project
 
